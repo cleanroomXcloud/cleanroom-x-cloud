@@ -12,3 +12,7 @@ This project simulates a clinical trial data pipeline using Python, Pandas, and 
 - Data merging and transformation
 - SQLite ingestion
 - Modular documentation
+
+## 🗺️ ETL Flow Diagram
+
+![ETL Flow](schema_diagram.png)
