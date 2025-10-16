@@ -1,0 +1,3 @@
+patient_id,outcome,follow_up_days
+P001,Improved,30
+P002,No Change,45
