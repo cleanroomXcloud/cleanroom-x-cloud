@@ -28,15 +28,10 @@ Welcome! I'm Chelsea — a budding data sceintist with 8+ years of biopharma dom
 
 ---
 
-## 📁 Projects
+## 🧪 Projects
 
-| Project | Description | Skills |
-|--------|-------------|--------|
-| [Clinical Trial ETL](./clinical-trial-etl) | Simulated trial data pipeline using Python and SQLite | ETL, SQL, Python |
-| [Cloud ETL with Lambda](./cloud-etl-lambda) | Serverless ingestion pipeline triggered by S3 events | AWS CLI, Lambda, event-driven |
-| [FHIR API Integration](./fhir-api-integration) | Ingest and normalize healthcare data from public FHIR API | API, DynamoDB, healthcare standards |
-| [Genomic Data Warehouse](./genomic-warehouse) | Query genomic datasets using Athena and Glue | Big data, cloud storage, SQL |
-| [CI/CD for ETL Deployment](./ci-cd-etl) | Automate ETL deployment with GitHub Actions | Git, CI/CD, DevOps |
+### [Clinical Trial ETL Pipeline](clinical-trial-etl/README.md)
+Simulates a biopharma ETL workflow using Python and SQLite. Demonstrates data ingestion, transformation, and modular documentation.
 
 ---
 
@@ -55,4 +50,5 @@ Each project includes:
 
 - [LinkedIn](https://www.linkedin.com/in/chelsea-sweet-866bb1bb/)
 - [GitHub Portfolio](https://github.com/cleanroomXcloud)  
+
 - [Notion Project Logs](https://chestnut-iridium-e99.notion.site/cleanroomXcloud-Portfolio-28ed63f4af9a807aba47ca930c72fdfe)
